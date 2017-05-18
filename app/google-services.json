@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "989879025328",
+    "firebase_url": "https://diesel-octane-662.firebaseio.com",
+    "project_id": "diesel-octane-662",
+    "storage_bucket": "diesel-octane-662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989879025328:android:c6800f34bec7d6ce",
+        "android_client_info": {
+          "package_name": "floydcoyoteai.com.livaindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989879025328-e7cggn84rb9ttktmlbfk0u4n2pni8lfh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "989879025328-pvii2vrb0koip1bg7bmiu7mdlblss7mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47UJ6yUdg49T3ivQ1NiZVAPZeGY6lcRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
